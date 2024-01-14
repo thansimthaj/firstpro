@@ -1,0 +1,14 @@
+.logo{
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 2rem;
+	color: blueviolet;
+	border: 2px solid;
+}
+
+.divone{
+	border-bottom: 1px solid;
+	padding: 2rem;
+	background: url('download.jpg');
+	margin-left: 0;
+}
